@@ -28,11 +28,8 @@ Ce projet fait partie de mon apprentissage du DOM et de la gestion des événeme
 - **JavaScript ES6** : logique fonctionnelle et événements DOM
 
 ## 📁 Structure du projet
-calculator/
-├── index.html       // Structure HTML
-├── style.css        // Style et mise en page
-├── script.js        // Logique de la calculatrice
-└── README.md        // Présentation du projet
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/6f40cee7-2fec-4293-be07-a2467bba0d5e" />
+
 
 ## ✅ Pistes d'amélioration
 
